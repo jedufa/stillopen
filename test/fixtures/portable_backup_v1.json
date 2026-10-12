@@ -1,0 +1,7 @@
+{
+  "schema_version": "stillopen_backup_v1",
+  "exported_at": "2025-01-01T00:00:00Z",
+  "items": [{"id": 501, "title": "Historical annual check", "notes": "Keep the original receipt", "state": "open", "category": "longTerm", "templateType": "longTerm", "recurrenceHint": "Yearly", "reminderText": "Jun 4, 2027 09:05", "reminderAt": "2027-06-04T09:05:00.000", "createdAt": 1735689600000, "updatedAt": 1735689600000}],
+  "attachments": [{"id": 801, "itemId": 501, "uri": "/old-device/proof.txt", "label": "Historical proof", "sourceType": "pdf", "contentBase64": "cHJvb2YgQQo=", "fileName": "proof.txt", "createdAt": 1735689600000}],
+  "settings": {"themePreference": "dark", "notificationsEnabled": false, "defaultReminderHour": 9, "defaultReminderMinute": 5, "showTemplateShortcuts": false}
+}

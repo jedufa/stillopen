@@ -1,0 +1,5 @@
+{
+  "items": [{"id": 501, "title": "Historical annual check", "state": "open", "category": "longTerm", "templateType": "longTerm", "recurrenceHint": "Yearly", "reminderText": "Jun 4, 2027 09:05", "reminderAt": "2027-06-04T09:05:00.000", "createdAt": 1735689600000, "updatedAt": 1735689600000}],
+  "attachments": [{"id": 801, "itemId": 501, "uri": "@LOCAL_PROOF@", "label": "Historical proof", "sourceType": "pdf", "createdAt": 1735689600000}],
+  "settings": {"themePreference": "dark", "notificationsEnabled": false, "defaultReminderHour": 9, "defaultReminderMinute": 5, "showTemplateShortcuts": false}
+}
