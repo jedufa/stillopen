@@ -10,6 +10,33 @@ Small unfinished things have a way of taking up more space in your head than the
 
 A quiet, local-first Android app for capturing loose ends, keeping them visible, and finally closing them. No account, no cloud service to maintain, no productivity theater. Just a place to remember what is still open.
 
+## A look inside
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Keep loose ends visible</strong><br>
+      <a href="docs/screenshots/overview.png"><img src="docs/screenshots/overview.png" alt="StillOpen overview with fictional open and waiting items" width="300"></a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Capture a quick note</strong><br>
+      <a href="docs/screenshots/capture.png"><img src="docs/screenshots/capture.png" alt="Quick note dialog with a fictional weekend walk and simple settings" width="300"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Handle what repeats</strong><br>
+      <a href="docs/screenshots/recurrence.png"><img src="docs/screenshots/recurrence.png" alt="Fictional library card renewal with yearly recurrence and a complete-cycle action" width="300"></a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>See what is waiting</strong><br>
+      <a href="docs/screenshots/waiting.png"><img src="docs/screenshots/waiting.png" alt="Fictional weekend plans waiting for a reply with follow-up actions" width="300"></a>
+    </td>
+  </tr>
+</table>
+
+Screenshots from a disposable Android emulator using fictional example data.
+
 ---
 
 ## Capture it. Find it. Finish it.
