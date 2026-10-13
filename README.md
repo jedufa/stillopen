@@ -42,7 +42,7 @@ If the idea resonates, fork it. Build your own version. Make it better. A new ma
 | **Accounts** | None required |
 | **Hosted backend** | None required |
 | **Source license** | [MIT](LICENSE) for first-party code and tests |
-| **Release** | [Experimental source prerelease](../../releases/latest) |
+| **Release** | [Experimental source prerelease](../../releases/tag/v1.0.0-oss.1) |
 
 The repository includes the Flutter application, Android host, automated tests, synthetic fixtures, dependency lockfile, build instructions, and [third-party notices](THIRD_PARTY_NOTICES.md). It intentionally excludes the iOS host, web/desktop shells, legacy prototypes, developer gateway, and private development history.
 
