@@ -1,0 +1,2060 @@
+[
+  {
+    "path": "test/controller_test.dart",
+    "rule": "personal_home",
+    "line": 943,
+    "blob_sha256": "40a472dfc56e286e657cbaa49b6502b5954484bc2720f2f5a6e44017d829316a",
+    "reason": "Invented Windows username/path embedded in a sanitization regression negative control."
+  },
+  {
+    "path": "test/fixtures/portable_backup_v1.json",
+    "rule": "personal_data_file",
+    "line": 0,
+    "blob_sha256": "56abe27670588ae91af99e513e42513f6494efd91f90cb0fe15188656f59bd45",
+    "reason": "One-item synthetic historical portable-backup compatibility fixture; tested attachment identity is fictional."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 358,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 2918,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 2925,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3021,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3022,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3023,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3024,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3025,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3026,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3058,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3059,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3060,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3061,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3093,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3094,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3126,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3127,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3128,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3160,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3161,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3162,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3194,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3226,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3227,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3259,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3260,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3261,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3293,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3325,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3357,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3358,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3390,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3423,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3455,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3456,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3494,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3495,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3528,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3529,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3530,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 3992,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 5049,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 6320,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 6322,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 6347,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 6426,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 6427,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 6428,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 6432,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 6678,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 6679,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 6700,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 6701,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 9040,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 9064,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 9088,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 9112,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 9136,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 9137,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 9166,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 9197,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 9220,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 9382,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 9428,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 9451,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 9474,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 9475,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 9498,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 9834,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 11136,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 11160,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 11246,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 12631,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 12945,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 13786,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 13810,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 16930,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 18628,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21389,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21390,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21391,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21392,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21393,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21394,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21395,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21429,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21430,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21431,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21432,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21433,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21434,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21789,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21815,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21816,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21817,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21818,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21819,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21820,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21821,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21822,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21823,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21824,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21857,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21858,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21859,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21860,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21861,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 21989,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 22000,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 22012,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 22096,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 22310,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 22373,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 22430,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 22488,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 22499,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 22611,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 22612,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 22613,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 22614,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 22615,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 22616,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 22867,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23281,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23282,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23283,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23284,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23285,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23286,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23287,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23288,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23320,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23321,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23322,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23323,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23324,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23325,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23326,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23327,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23328,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23329,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23330,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23331,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23363,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23364,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23365,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23366,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23367,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23399,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23400,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23401,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23402,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23403,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23404,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23405,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23406,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23407,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23408,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23409,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23410,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23411,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23412,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23413,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23414,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23415,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23447,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23448,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23449,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23450,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23451,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23452,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23453,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23454,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23455,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23456,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23457,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23458,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23490,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23491,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23492,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23493,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23494,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23495,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23496,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23497,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23529,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23530,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23531,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23532,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23533,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23565,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23566,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23567,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23568,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23600,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23601,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23602,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23603,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23604,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23636,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23637,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23638,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23670,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23671,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23672,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23673,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23705,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23706,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23707,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23739,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23740,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23741,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23773,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23774,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23775,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23776,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23777,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23778,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23779,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23780,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23781,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23813,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23814,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23815,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23816,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23848,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23849,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23850,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23851,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23852,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23853,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23854,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23855,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23856,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23888,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23889,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23921,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23922,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23954,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23955,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23956,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23988,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 23989,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24021,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24022,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24023,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24024,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24055,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24056,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24057,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24058,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24059,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24090,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24091,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24122,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24123,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24180,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24181,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24182,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24183,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24184,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24185,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24186,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24187,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24188,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24189,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24190,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24191,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24192,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24193,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24194,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24195,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24196,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24197,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24198,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24199,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24200,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24201,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24202,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24203,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24204,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24205,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24206,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24207,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24208,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24209,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24210,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24211,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24212,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24213,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24584,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  },
+  {
+    "path": "third_party/dart/sky_engine/LICENSE",
+    "rule": "personal_email",
+    "line": 24607,
+    "blob_sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "reason": "Required upstream copyright or contributor attribution, retained with the original licensed text."
+  }
+]

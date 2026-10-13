@@ -32,3 +32,16 @@ android/local.properties
 android/key.properties
 android/captures/
 android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+
+# Privacy: local credentials, exports and test caches
+.env*
+!.env.example
+!.env.sample
+!.env.template
+!*.env.example
+!*.env.sample
+!*.env.template
+/exports/
+/attachments/
+/local-backups/
+.pytest_cache/
