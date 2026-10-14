@@ -1,6 +1,23 @@
+<div align="center">
+
 # StillOpen
 
 ### Make room for what matters. Keep track of what isn't finished.
+
+**A quiet, local-first Android app for capturing loose ends and closing them.**
+
+No account. No hosted service. No productivity theater.
+
+[**See the app ↓**](#a-look-inside) · [**Build from source →**](#build-it-yourself) · [**Explore the project →**](#why-open-source)
+
+<br>
+
+![Status](https://img.shields.io/badge/status-experimental%20source%20prerelease-536171?style=flat-square)
+![Android](https://img.shields.io/badge/Android-Flutter%20%2B%20Dart-287ec2?style=flat-square)
+![Approach](https://img.shields.io/badge/storage-local--first-316d74?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-24836b?style=flat-square)
+
+</div>
 
 The message you meant to answer. The document you need to send. The thing you promised yourself you'd come back to.
 
@@ -8,7 +25,7 @@ Small unfinished things have a way of taking up more space in your head than the
 
 **StillOpen gives them somewhere else to live.**
 
-A quiet, local-first Android app for capturing loose ends, keeping them visible, and finally closing them. No account, no cloud service to maintain, no productivity theater. Just a place to remember what is still open.
+The app keeps open and waiting items together instead of scattering them across apps and memory. It is **experimental, unmaintained, and published as source**, not an app-store download.
 
 ## A look inside
 
